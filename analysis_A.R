@@ -1,0 +1,2 @@
+hist(mtcars$mpg)
+!mtcars
