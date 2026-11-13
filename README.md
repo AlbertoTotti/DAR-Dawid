@@ -8,3 +8,5 @@ Test repository 😮
 ### This repository contains my work for Data Analysis in R
 
 [PROJEKT](https://github.com/users/AlbertoTotti/projects/2)
+
+działa
